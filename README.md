@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sudhanshu Ranjan
-- A passionate FullStack Devloper from India
 - 👀 I’m interested in to become a Web Devloper
 - 🌱 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Projects
