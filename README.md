@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Projects**
+- 👯 I’m looking to collaborate on **[Projects](https://ranjan119.netlify.app/)**
 
 - 🤝 I’m looking for help with **Projects**
 
