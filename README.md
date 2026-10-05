@@ -1,52 +1,106 @@
-<h1 align="center">Hi 👋, I'm Sudhanshu Ranjan</h1>
-<h3 align="center">- 👀 I’m interested in to become a Cyber Security and penetration testing, </h3>
+<!-- ═══════════════════════ TERMINAL BOOT SEQUENCE ═══════════════════════ -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu-00&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu-00" /> </p>
+```bash
+┌──(root💀kali)-[~/github]
+└─$ sudo ./init_profile.sh --mode=hacker
+[✓] Loading modules: recon · exploit · post-exploit
+[✓] Uplink established ......... 100%
+[✓] Identity decrypted ......... SUDHANSHU RANJAN
+[>>>] ACCESS GRANTED
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshu-00" alt="sudhanshu-00" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=%3E_+whoami;Aspiring+Penetration+Tester+%2F%2F+Cybersecurity;Breaking+things+to+make+them+stronger;%3E_+echo+%24MISSION" alt="typing" />
 
-<p align="left"> <a href="https://twitter.com/@amanraja_in" target="blank"><img src="https://img.shields.io/twitter/follow/@amanraja_in?logo=twitter&style=for-the-badge" alt="@amanraja_in" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=Sudhanshu-00&label=VISITORS&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="visitors" />
+<a href="https://my-portfolio-fp1g.onrender.com/"><img src="https://img.shields.io/badge/%3E_-LIVE_PORTFOLIO-00ff41?style=for-the-badge&labelColor=0d1117" alt="portfolio" /></a>
 
-- 🌱 I’m currently learning **Cybersecurity**
+</div>
 
-- 👯 I’m looking to collaborate on **[Projects](https://ranjan119.netlify.app/)**
+<!-- ═══════════════════════ CURRENT SESSION ═══════════════════════ -->
+```bash
+┌──(root💀kali)-[~]
+└─$ cat ./mission.txt
+```
+```yaml
+name:        Sudhanshu Ranjan
+role:        Aspiring Penetration Tester
+focus:       [ Web-App Pentesting, Android Security, Bug Bounty ]
+learning:    [ OWASP-Top10, Burp-Suite, TryHackMe, PortSwigger-Labs ]
+building:    Hacker-themed portfolio with admin panel + OTP auth + auto-defence
+stack:       [ Node.js, Express, MongoDB, JavaScript, Python, Bash ]
+philosophy:  "Think like an attacker, build like a defender."
+```
+```bash
+└─$ ./status --live
+⟫ 🔍 practicing on TryHackMe & PortSwigger labs
+⟫ 🛡 building defensive tools with an offensive mindset
+⟫ 📡 open for: collaboration | CTF teams | internships
+```
 
-- 🤝 I’m looking for help with **Projects**
+<!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
+## ⚔ `ls /opt/arsenal/`
 
-- 👨‍💻 All of my projects are available at GITHUB [https://github.com/Sudhanshu-00](https://github.com/Sudhanshu-00)
+<div align="center">
 
-- 💬 Ask me about **Cybersecurity**
+**🔴 Offensive / Security**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&labelColor=0d1117)
+![Nmap](https://img.shields.io/badge/Nmap-2154A5?style=for-the-badge&labelColor=0d1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
 
-- 📫 How to reach me **rsudhanshu.in.in@gmail.com**
+**💻 Dev / Build**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@amanraja_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amanraja_in" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sudhanshu(aman)ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu(aman)ranjan" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- ═══════════════════════ STATS GRID ═══════════════════════ -->
+## 📊 `./stats --github`
+<div align="center">
 
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/50/000000/wireshark.png" alt="Wireshark" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-    <img src="[https://img.icons8.com/color/48/000000/cisco-logo.png](https://learningnetwork.cisco.com/resource/1701841064000/peakLightning/images/Cisco-Logo.svg)" alt="CCNA" width="40" height="40"/>
-  </a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-00&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu-00&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="langs" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshu-00&show_icons=true&locale=en&layout=compact" alt="sudhanshu-00" /></p>
+<img src="https://streak-stats.demolab.com?user=Sudhanshu-00&hide_border=true&background=0D1117&ring=00FF41&fire=FF4444&currStreakLabel=00FF41&sideLabels=8b949e&currStreakNum=c9d1d9&dates=8b949e" alt="streak" height="165" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshu-00&show_icons=true&locale=en" alt="sudhanshu-00" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=Sudhanshu-00&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" width="100%"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-00&" alt="sudhanshu-00" /></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu-00&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4133&custom_title=Contribution%20Signal%20Graph" alt="activity" width="100%"/>
 
+<!-- 🐍 snake — auto-generates daily via GitHub Action -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudhanshu-00/Sudhanshu-00/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudhanshu-00/Sudhanshu-00/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Sudhanshu-00/Sudhanshu-00/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+## 📡 `./connect --social`
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sudhanshu-aman-ranjan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="linkedin" /></a>
+<a href="https://x.com/amanraja_in" target="_blank"><img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="x" /></a>
+<a href="https://my-portfolio-fp1g.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&labelColor=0d1117" alt="portfolio" /></a>
+<a href="mailto:rsudhanshu.in.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="gmail" /></a>
+
+</div>
+
+<div align="center">
+
+```bash
+└─$ exit
+connection to github closed.        # keep hacking, stay ethical 🔒
+```
+
+</div>
