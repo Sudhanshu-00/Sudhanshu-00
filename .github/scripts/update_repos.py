@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # .github/scripts/update_repos.py — README ke LATEST REPOS block ko regenerate karta hai
-# GitHub public API se non-fork repos (recent pushed first). Markers ke beech ka
-# content replace hota hai — block ke bahar ka README untouched rehta hai.
+# GitHub public API se non-fork repos (recent pushed first). Har entry CLICKABLE hai
+# (repo par click → GitHub URL). Markers ke beech ka content replace hota hai —
+# block ke bahar ka README untouched rehta hai.
 import json
 import os
 import urllib.request
@@ -26,24 +27,31 @@ repos = [r for r in repos if not r.get("fork") and r["name"] not in SKIP_NAMES]
 repos.sort(key=lambda r: r.get("pushed_at") or "", reverse=True)
 repos = repos[:MAX_REPOS]
 
-lines = []
-for r in repos:
-    name = (r["name"] or "?")[:20].ljust(20)
-    lang = (r.get("language") or "-")[:10].ljust(10)
-    stars = str(r.get("stargazers_count") or 0)[:4].ljust(4)
-    desc = (r.get("description") or "-").replace("`", "'").replace("\n", " ")[:48]
-    lines.append(f"  {name}  {lang}  *{stars}  {desc}")
 
-block = (
-    START + "\n"
-    "### ⟫ LATEST REPOS `[auto-synced every 6h]`\n\n"
-    "```bash\n"
-    "┌──(root\U0001F480kali)-[~]\n"
-    "└─$ ./repos --list --sort=pushed | head -8\n\n"
-    + "\n".join(lines)
-    + "\n```\n"
-    + END
-)
+def clean(s, n):
+    s = (s or "-").replace("|", "/").replace("`", "'").replace("\n", " ").strip() or "-"
+    return s[:n]
+
+
+lines = [
+    "",
+    "```bash",
+    "┌──(root\U0001F480kali)-[~]",
+    "└─$ ls -la ~/repos --sort=pushed | head -" + str(MAX_REPOS) + "  # click → source",
+    "```",
+    "",
+    "| repo | lang | ★ | about |",
+    "|---|---|---|---|",
+]
+for r in repos:
+    name = clean(r["name"], 24)
+    url = r["html_url"]
+    lang = clean(r.get("language"), 12)
+    stars = str(r.get("stargazers_count") or 0)
+    desc = clean(r.get("description"), 60)
+    lines.append(f"| [`{name}`]({url}) | {lang} | {stars} | {desc} |")
+
+block = START + "\n" + "\n".join(lines) + "\n" + END
 
 with open("README.md", encoding="utf-8") as f:
     readme = f.read()
@@ -59,4 +67,4 @@ if new == readme:
 else:
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(new)
-    print(f"README updated — {len(repos)} repos listed")
+    print(f"README updated — {len(repos)} clickable repos listed")

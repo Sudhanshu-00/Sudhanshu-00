@@ -78,21 +78,22 @@ philosophy:  "Think like an attacker, build like a defender."
 </div>
 
 <!-- REPOS:START -->
-### ⟫ LATEST REPOS `[auto-synced every 6h]`
 
 ```bash
 ┌──(root💀kali)-[~]
-└─$ ./repos --list --sort=pushed | head -8
-
-  My-portfolio          JavaScript  *0     using Mern portfolio
-  ops-log               -           *0     🛡 SOC shift log — automated daily ops heartbeat 
-  Pentesting            Python      *0     ⚡ Pentesting Toolkit v3.0 — AMAN EDITION | Web R
-  payload               -           *0     -
-  NEw-class-Python      Python      *1     -
-  python                Python      *0     -
-  Cisco-project         -           *0     -
-  file_lin_or_ccna      -           *0     -
+└─$ ls -la ~/repos --sort=pushed | head -8  # click → source
 ```
+
+| repo | lang | ★ | about |
+|---|---|---|---|
+| [`My-portfolio`](https://github.com/Sudhanshu-00/My-portfolio) | JavaScript | 0 | using Mern portfolio |
+| [`ops-log`](https://github.com/Sudhanshu-00/ops-log) | - | 0 | 🛡 SOC shift log — automated daily ops heartbeat / daily secu |
+| [`Pentesting`](https://github.com/Sudhanshu-00/Pentesting) | Python | 0 | ⚡ Pentesting Toolkit v3.0 — AMAN EDITION / Web Recon Dashboa |
+| [`payload`](https://github.com/Sudhanshu-00/payload) | - | 0 | - |
+| [`NEw-class-Python`](https://github.com/Sudhanshu-00/NEw-class-Python) | Python | 1 | - |
+| [`python`](https://github.com/Sudhanshu-00/python) | Python | 0 | - |
+| [`Cisco-project`](https://github.com/Sudhanshu-00/Cisco-project) | - | 0 | - |
+| [`file_lin_or_ccna`](https://github.com/Sudhanshu-00/file_lin_or_ccna) | - | 0 | - |
 <!-- REPOS:END -->
 
 ```bash
@@ -177,10 +178,6 @@ philosophy:  "Think like an attacker, build like a defender."
 <!-- trophies service suspended (402) → profile-summary-cards se replace kiya -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sudhanshu-00&theme=github_dark" alt="profile summary stats" height="170" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudhanshu-00&theme=github_dark&utcOffset=5.5" alt="productive hours — hacking time" height="170" />
-
-**`./calendar --render --color=00ff41 --mode=matrix`**
-
-<img src="https://ghchart.rshah.org/00ff41/Sudhanshu-00" alt="contribution calendar — matrix mode" width="100%" />
 
 <!-- 🐍 snake — auto-generates daily via GitHub Action -->
 <picture>
