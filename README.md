@@ -62,18 +62,23 @@ philosophy:  "Think like an attacker, build like a defender."
 
 </div>
 
-| ⚡ SKILL_MODULE | LOAD_LEVEL |
-|-----------------|------------|
-| `web_app_pentesting` | ![bar](https://progress-bar.dev/72/?title=&width=220&color=00ff41&suffix=%25) |
-| `owasp_top10` | ![bar](https://progress-bar.dev/74/?title=&width=220&color=00ff41&suffix=%25) |
-| `burp_suite` | ![bar](https://progress-bar.dev/68/?title=&width=220&color=00ff41&suffix=%25) |
-| `network_recon_nmap` | ![bar](https://progress-bar.dev/70/?title=&width=220&color=00e5ff&suffix=%25) |
-| `linux_hardening` | ![bar](https://progress-bar.dev/78/?title=&width=220&color=00e5ff&suffix=%25) |
-| `python_scripting` | ![bar](https://progress-bar.dev/65/?title=&width=220&color=ffd60a&suffix=%25) |
-| `node_js_backend` | ![bar](https://progress-bar.dev/70/?title=&width=220&color=ffd60a&suffix=%25) |
-| `android_security` | ![bar](https://progress-bar.dev/55/?title=&width=220&color=ff6633&suffix=%25) |
-| `privilege_escalation` | ![bar](https://progress-bar.dev/52/?title=&width=220&color=ff6633&suffix=%25) |
-| `report_writing` | ![bar](https://progress-bar.dev/60/?title=&width=220&color=c792ea&suffix=%25) |
+```bash
+┌──(root💀kali)-[~]
+└─$ ./skills --check --all
+
+  web_app_pentesting    [████████████████░░░░░░]  72%
+  owasp_top10           [████████████████░░░░░░]  74%
+  burp_suite            [███████████████░░░░░░░]  68%
+  network_recon_nmap    [███████████████░░░░░░░]  70%
+  linux_hardening       [█████████████████░░░░░]  78%
+  python_scripting      [██████████████░░░░░░░░]  65%
+  node_js_backend       [███████████████░░░░░░░]  70%
+  android_security      [████████████░░░░░░░░░░]  55%
+  privilege_escalation  [███████████░░░░░░░░░░░]  52%
+  report_writing        [█████████████░░░░░░░░░]  60%
+
+  [✓] 10 modules loaded — status: intermediate ▲ grinding daily
+```
 
 <div align="center">
 
