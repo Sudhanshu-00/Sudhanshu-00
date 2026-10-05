@@ -67,9 +67,9 @@ philosophy:  "Think like an attacker, build like a defender."
 <!-- live THM stats — real badge + verified numbers -->
 <div align="center">
 
-<a href="https://tryhackme.com/p/rsudhanshu.in.in" target="_blank"><img src="https://raw.githubusercontent.com/Sudhanshu-00/Sudhanshu-00/main/thm-card.svg" alt="TryHackMe stats card — rsudhanshu.in.in" width="620" /></a>
+<a href="https://tryhackme.com/p/rsudhanshu.in.in" target="_blank"><img src="https://my-portfolio-fp1g.onrender.com/img/thm-card.svg" alt="TryHackMe stats card — rsudhanshu.in.in — LIVE" width="620" /></a>
 
-<img src="https://img.shields.io/badge/GLOBAL_RANK-top_5%25_%C2%B7_%23136928-9acc14?style=for-the-badge&labelColor=0d1117" alt="rank" />
+<!-- rank badge hata diya — live card me RANK already aata hai (auto-synced) -->
 <img src="https://img.shields.io/badge/THM_LEVEL-%5B0x9%5D%5BMAGE%5D-c792ea?style=for-the-badge&labelColor=0d1117" alt="level" />
 <img src="https://img.shields.io/badge/ROOMS_COMPLETED-91-00e5ff?style=for-the-badge&labelColor=0d1117" alt="rooms" />
 <img src="https://img.shields.io/badge/STREAK-376_days-ff6633?style=for-the-badge&labelColor=0d1117" alt="streak" />
