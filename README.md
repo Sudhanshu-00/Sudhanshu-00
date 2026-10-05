@@ -14,7 +14,9 @@
 [>>>] ACCESS GRANTED — welcome, guest
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=%3E_+whoami;Aspiring+Penetration+Tester+%2F%2F+Cybersecurity;Bug+Hunter+%2F%2F+CTF+Player;%3E_+echo+%24MISSION" alt="typing" />
+<!-- single-line cycling mode — multiline+height clip bug fix: ab ek time pe ek line (type→pause→delete→next) -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2400&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=780&height=60&lines=%3E_+whoami;Aspiring+Penetration+Tester+%2F%2F+Cybersecurity;Bug+Hunter+%2F%2F+CTF+Player;Breaking+things+to+build+them+stronger;%3E+echo+%24MISSION;Think+like+an+attacker%2C+build+like+a+defender." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1&pause=99999999&color=8B949E&center=true&vCenter=true&repeat=false&width=780&height=40&lines=%E2%94%94%E2%94%80%24+clearance%3A+LEVEL-3+%C2%B7+uplink%3A+SECURE+%C2%B7+mode%3A+stealth" alt="status" />
 
 </div>
 
