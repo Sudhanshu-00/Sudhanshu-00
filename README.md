@@ -77,6 +77,24 @@ philosophy:  "Think like an attacker, build like a defender."
 
 </div>
 
+<!-- REPOS:START -->
+### ⟫ LATEST REPOS `[auto-synced every 6h]`
+
+```bash
+┌──(root💀kali)-[~]
+└─$ ./repos --list --sort=pushed | head -8
+
+  My-portfolio          JavaScript  *0     using Mern portfolio
+  ops-log               -           *0     🛡 SOC shift log — automated daily ops heartbeat 
+  Pentesting            Python      *0     ⚡ Pentesting Toolkit v3.0 — AMAN EDITION | Web R
+  payload               -           *0     -
+  NEw-class-Python      Python      *1     -
+  python                Python      *0     -
+  Cisco-project         -           *0     -
+  file_lin_or_ccna      -           *0     -
+```
+<!-- REPOS:END -->
+
 ```bash
 ┌──(root💀kali)-[~]
 └─$ ./skills --check --all

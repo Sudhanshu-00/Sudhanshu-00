@@ -1,0 +1,39 @@
+# auto-repos — GitHub par naya repo add karo → 6h ke andar profile README me aa jayega
+# (ya Actions tab → auto-repos → Run workflow se turant)
+name: auto-repos
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # har 6h
+  workflow_dispatch: {} # manual trigger button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-repos
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate LATEST REPOS block
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 5000 req/hr (warna 60)
+        run: python3 .github/scripts/update_repos.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git add README.md
+            git commit -m "auto: refresh LATEST REPOS block [skip ci]"
+            git push
+            echo "pushed ✓"
+          else
+            echo "no changes — skip commit"
+          fi
