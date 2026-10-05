@@ -141,9 +141,13 @@ philosophy:  "Think like an attacker, build like a defender."
 
 <img src="https://streak-stats.demolab.com?user=Sudhanshu-00&hide_border=true&background=0D1117&ring=00FF41&fire=FF4444&currStreakLabel=00FF41&sideLabels=8b949e&currStreakNum=c9d1d9&dates=8b949e" alt="streak" height="165" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sudhanshu-00&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" width="100%"/>
+<!-- trophies service suspended (402) → profile-summary-cards se replace kiya -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sudhanshu-00&theme=github_dark" alt="profile summary stats" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudhanshu-00&theme=github_dark&utcOffset=5.5" alt="productive hours — hacking time" height="170" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu-00&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4133&custom_title=Contribution%20Signal%20Graph" alt="activity" width="100%"/>
+**`./calendar --render --color=00ff41 --mode=matrix`**
+
+<img src="https://ghchart.rshah.org/00ff41/Sudhanshu-00" alt="contribution calendar — matrix mode" width="100%" />
 
 <!-- 🐍 snake — auto-generates daily via GitHub Action -->
 <picture>
