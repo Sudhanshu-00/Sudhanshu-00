@@ -58,9 +58,22 @@ philosophy:  "Think like an attacker, build like a defender."
 ## 🧠 `./skills --list --verbose`
 <div align="center">
 
-<a href="https://tryhackme.com/p/Sudhanshu-00" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-Sudhanshu--00-9acc14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="tryhackme" /></a>
+<a href="https://tryhackme.com/p/rsudhanshu.in.in" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-rsudhanshu.in.in-9acc14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="tryhackme" /></a>
 <img src="https://img.shields.io/badge/OWASP-Top%2010%20Loaded-ff2d55?style=for-the-badge&labelColor=0d1117" alt="owasp" />
 <img src="https://img.shields.io/badge/PortSwigger-Academy-ff6633?style=for-the-badge&labelColor=0d1117" alt="portswigger" />
+
+</div>
+
+<!-- live THM stats — real badge + verified numbers -->
+<div align="center">
+
+<a href="https://tryhackme.com/p/rsudhanshu.in.in" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/rsudhanshu.in.in.png" alt="TryHackMe live badge — rsudhanshu.in.in" height="88" /></a>
+
+<img src="https://img.shields.io/badge/GLOBAL_RANK-top_5%25_%C2%B7_%23136928-9acc14?style=for-the-badge&labelColor=0d1117" alt="rank" />
+<img src="https://img.shields.io/badge/THM_LEVEL-%5B0x9%5D%5BMAGE%5D-c792ea?style=for-the-badge&labelColor=0d1117" alt="level" />
+<img src="https://img.shields.io/badge/ROOMS_COMPLETED-91-00e5ff?style=for-the-badge&labelColor=0d1117" alt="rooms" />
+<img src="https://img.shields.io/badge/STREAK-376_days-ff6633?style=for-the-badge&labelColor=0d1117" alt="streak" />
+<img src="https://img.shields.io/badge/BADGES-18-ffd60a?style=for-the-badge&labelColor=0d1117" alt="badges" />
 
 </div>
 
@@ -166,7 +179,7 @@ philosophy:  "Think like an attacker, build like a defender."
 
 <a href="https://www.linkedin.com/in/sudhanshu-aman-ranjan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="linkedin" /></a>
 <a href="https://x.com/amanraja_in" target="_blank"><img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="x" /></a>
-<a href="https://tryhackme.com/p/Sudhanshu-00" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-9acc14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="tryhackme" /></a>
+<a href="https://tryhackme.com/p/rsudhanshu.in.in" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-rsudhanshu.in.in-9acc14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="tryhackme" /></a>
 <a href="https://my-portfolio-fp1g.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&labelColor=0d1117" alt="portfolio" /></a>
 <a href="mailto:rsudhanshu.in.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="gmail" /></a>
 
